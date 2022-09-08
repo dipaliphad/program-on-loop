@@ -15,7 +15,7 @@ namespace loop2
             //0 1 1 2 3 5 8
             int n, n1 = 0, n2 = 1, n3;
             Console.WriteLine("enter the upper limit");
-            n=Convert.ToInt32(Console.ReadLine());  
+            n=Convert.ToInt32(Console.ReadLine());    
             Console.WriteLine($" {n1} {n2}");
 
             for (int i = 2; i < n; i++)
