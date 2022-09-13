@@ -5,6 +5,11 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loop2", "loop2\loop2.csproj", "{276A5B9C-CC23-4584-96F9-C4C12FBCCC62}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pratice", "pratice", "{D5A8E715-C13E-4001-B6FA-423BC028FF80}"
+	ProjectSection(SolutionItems) = preProject
+		test.cs = test.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

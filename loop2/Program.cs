@@ -129,17 +129,17 @@ namespace loop2
 
             //1...
 
-            Console.WriteLine("enter a number");
-            int n = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("enter a number");
+            //int n = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 1; i <= n; i++)
-            {
-                for (int j = 1; j <= i; j++)
-                {
-                    Console.Write(j.ToString());
-                }
-                Console.WriteLine();
-            }
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    for (int j = 1; j <= i; j++)
+            //    {
+            //        Console.Write(j.ToString());
+            //    }
+            //    Console.WriteLine();
+            //}
 
 
             // 2...
